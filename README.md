@@ -2,6 +2,8 @@
 
 A powerful GUI-based automation tool that records user interactions on web forms and replays them with random data to create multiple accounts automatically.
 
+![Project Logo](/demo.png)
+
 ## Features
 
 - 🎯 **Intuitive Recording**: Select element types and click to record actions
